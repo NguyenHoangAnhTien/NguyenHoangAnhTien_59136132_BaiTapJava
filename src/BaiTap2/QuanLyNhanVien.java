@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  *
- * @author ltpnt
+ * @author PC
  */
 public class QuanLyNhanVien implements IQuanLy{
     List<NhanVien> ListNhanVien = new ArrayList<>();
