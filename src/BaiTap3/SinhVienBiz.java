@@ -6,7 +6,7 @@
 package BaiTap3;
 /**
  *
- * @author ltpnt
+ * @author PC
  */
 
 public class SinhVienBiz extends SinhVienPoly{
